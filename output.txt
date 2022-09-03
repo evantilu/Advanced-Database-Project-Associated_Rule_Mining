@@ -1,0 +1,748 @@
+==Frequent itemsets (min_sup=10.0%)
+[lot_1, ], 80.0%
+[avland2_3, ], 75.9%
+[census_1, ], 75.4%
+[val_3, ], 74.6%
+[transval_3, ], 74.4%
+[transval_3, val_3, ], 73.8%
+[avland2_3, transval_3, ], 71.2%
+[avland2_3, val_3, ], 71.1%
+[str_1, ], 64.9%
+[avland2_3, lot_1, ], 63.1%
+[bcl_D4, ], 62.7%
+[lot_1, transval_3, ], 62.3%
+[lot_1, val_3, ], 62.2%
+[bcl_D4, transval_3, ], 61.6%
+[bcl_D4, val_3, ], 61.4%
+[census_1, lot_1, ], 60.5%
+[extot2_3, ], 59.8%
+[avland2_3, bcl_D4, ], 59.8%
+[avland2_3, bcl_D4, transval_3, ], 59.6%
+[avland2_3, lot_1, transval_3, ], 59.4%
+[avland2_3, census_1, ], 55.4%
+[buildingarea_1, ], 55.3%
+[census_1, val_3, ], 54.4%
+[census_1, transval_3, ], 54.3%
+[bcl_D4, lot_1, ], 51.9%
+[extot2_3, lot_1, ], 51.4%
+[bcl_D4, lot_1, transval_3, ], 51.0%
+[lot_1, str_1, ], 50.6%
+[avland2_3, extot2_3, ], 48.8%
+[exland2_3, ], 48.5%
+[avland2_3, exland2_3, ], 48.5%
+[exland2_3, extot2_3, ], 48.5%
+[avland2_3, exland2_3, extot2_3, ], 48.5%
+[census_1, str_1, ], 48.3%
+[extot2_3, val_3, ], 47.4%
+[extot2_3, transval_3, ], 47.2%
+[lotarea_2, ], 46.8%
+[bcl_D4, census_1, ], 46.8%
+[census_1, lot_1, transval_3, ], 45.9%
+[exland2_3, val_3, ], 45.3%
+[exland2_3, transval_3, ], 45.3%
+[buildingarea_1, lot_1, ], 45.2%
+[avland2_3, bcl_D4, census_1, ], 44.6%
+[census_1, extot2_3, ], 44.3%
+[buildingarea_1, census_1, ], 43.8%
+[lotarea_2, val_3, ], 43.1%
+[lotarea_2, transval_3, ], 43.1%
+[avland2_3, lotarea_2, ], 43.0%
+[buildingarea_2, ], 42.8%
+[bor_1, ], 42.6%
+[lotarea_1, ], 42.5%
+[buildingarea_1, lotarea_1, ], 42.2%
+[avland2_3, str_1, ], 41.7%
+[exland2_3, lot_1, ], 41.5%
+[buildingarea_2, transval_3, ], 40.8%
+[buildingarea_2, val_3, ], 40.7%
+[extot2_3, lot_1, transval_3, ], 40.5%
+[avland2_3, buildingarea_2, ], 40.3%
+[str_1, val_3, ], 40.1%
+[str_1, transval_3, ], 40.0%
+[buildingarea_1, str_1, ], 39.4%
+[bcl_D4, lotarea_2, ], 39.4%
+[exland2_3, lot_1, transval_3, ], 38.8%
+[bcl_D4, extot2_3, ], 38.6%
+[bcl_D4, buildingarea_2, ], 38.5%
+[avland2_3, bcl_D4, lotarea_2, ], 38.2%
+[avland2_3, bor_1, ], 37.9%
+[avland2_3, bcl_D4, buildingarea_2, ], 37.5%
+[bcl_D4, exland2_3, ], 37.3%
+[avland2_3, bcl_D4, exland2_3, ], 37.3%
+[avland2_3, bcl_D4, extot2_3, ], 37.3%
+[bcl_D4, exland2_3, extot2_3, ], 37.3%
+[avland2_3, bcl_D4, exland2_3, extot2_3, ], 37.3%
+[avland2_3, str_1, transval_3, ], 37.0%
+[bor_1, transval_3, ], 36.8%
+[bor_1, val_3, ], 36.7%
+[bor_1, lot_1, ], 36.6%
+[buildingarea_2, lotarea_2, ], 36.4%
+[avland2_3, bor_1, val_3, ], 36.1%
+[avland2_3, bor_1, transval_3, ], 36.1%
+[extot2_3, str_1, ], 35.5%
+[avland2_3, census_1, extot2_3, ], 35.4%
+[census_1, exland2_3, ], 35.2%
+[avland2_3, census_1, exland2_3, ], 35.2%
+[census_1, exland2_3, extot2_3, ], 35.2%
+[avland2_3, census_1, exland2_3, extot2_3, ], 35.2%
+[census_1, lotarea_2, ], 35.1%
+[census_1, lotarea_1, ], 35.0%
+[bor_1, census_1, ], 34.8%
+[yrs_2, ], 34.2%
+[yrs_3, ], 33.8%
+[avland2_3, buildingarea_1, ], 33.6%
+[buildingarea_2, lot_1, ], 33.2%
+[avland2_3, bor_1, lot_1, ], 33.2%
+[lot_1, str_1, transval_3, ], 33.0%
+[buildingarea_2, lot_1, transval_3, ], 32.7%
+[bor_1, lot_1, transval_3, ], 32.1%
+[yrs_1, ], 32.0%
+[buildingarea_1, val_3, ], 31.9%
+[buildingarea_1, transval_3, ], 31.7%
+[avland2_3, bor_1, lot_1, transval_3, ], 31.5%
+[bcl_D4, bor_1, ], 31.4%
+[lotarea_1, str_1, ], 31.0%
+[bcl_D4, bor_1, val_3, ], 31.0%
+[bcl_D4, bor_1, transval_3, ], 31.0%
+[avland2_3, bor_1, census_1, ], 30.8%
+[buildingarea_2, census_1, ], 30.6%
+[bcl_D4, str_1, ], 29.6%
+[buildingarea_2, extot2_3, ], 29.6%
+[extot2_3, lotarea_2, ], 29.3%
+[avland2_3, buildingarea_2, extot2_3, ], 28.9%
+[buildingarea_2, exland2_3, ], 28.8%
+[avland2_3, buildingarea_2, exland2_3, ], 28.8%
+[buildingarea_2, exland2_3, extot2_3, ], 28.8%
+[avland2_3, buildingarea_2, exland2_3, extot2_3, ], 28.8%
+[bcl_D4, str_1, transval_3, ], 28.6%
+[bcl_D4, census_1, extot2_3, ], 28.5%
+[avland2_3, buildingarea_2, census_1, ], 28.5%
+[buildingarea_1, extot2_3, ], 28.4%
+[exland2_3, lotarea_2, ], 28.3%
+[buildingarea_1, lot_1, transval_3, ], 28.0%
+[census_1, str_1, transval_3, ], 27.9%
+[bcl_D4, buildingarea_2, census_1, ], 27.7%
+[bcl_D4, census_1, exland2_3, ], 27.7%
+[bcl_D4, census_1, exland2_3, extot2_3, ], 27.7%
+[avland2_3, bcl_D4, census_1, exland2_3, ], 27.7%
+[avland2_3, bcl_D4, census_1, extot2_3, ], 27.7%
+[avland2_3, bcl_D4, census_1, exland2_3, extot2_3, ], 27.7%
+[bcl_D4, bor_1, lot_1, ], 27.5%
+[bcl_D4, buildingarea_2, extot2_3, ], 27.5%
+[lot_1, yrs_2, ], 27.2%
+[bcl_D4, bor_1, lot_1, transval_3, ], 27.1%
+[bcl_D4, buildingarea_2, exland2_3, ], 27.0%
+[bcl_D4, buildingarea_2, exland2_3, extot2_3, ], 27.0%
+[avland2_3, bcl_D4, buildingarea_2, census_1, ], 27.0%
+[avland2_3, bcl_D4, buildingarea_2, exland2_3, ], 27.0%
+[avland2_3, bcl_D4, buildingarea_2, extot2_3, ], 27.0%
+[avland2_3, bcl_D4, buildingarea_2, exland2_3, extot2_3, ], 27.0%
+[lotarea_2, str_1, ], 26.8%
+[bor_1, extot2_3, ], 26.7%
+[avland2_3, yrs_2, ], 26.7%
+[lot_1, yrs_3, ], 26.6%
+[bor_1, buildingarea_1, ], 26.5%
+[exland2_1, ], 26.4%
+[val_3, yrs_2, ], 26.4%
+[lot_1, yrs_1, ], 26.2%
+[transval_3, yrs_2, ], 26.2%
+[transval_3, val_3, yrs_2, ], 26.1%
+[census_1, yrs_2, ], 25.9%
+[avland2_3, buildingarea_1, census_1, ], 25.9%
+[bcl_D4, bor_1, census_1, ], 25.6%
+[census_1, yrs_3, ], 25.5%
+[avland2_3, val_3, yrs_2, ], 25.3%
+[val_3, yrs_3, ], 25.2%
+[avland2_3, yrs_3, ], 25.1%
+[exland2_2, ], 25.0%
+[transval_3, yrs_3, ], 24.8%
+[transval_3, val_3, yrs_3, ], 24.8%
+[exland2_3, str_1, ], 24.6%
+[bor_3, ], 24.4%
+[buildingarea_2, str_1, ], 24.3%
+[avland2_3, bor_1, extot2_3, ], 24.2%
+[bor_1, exland2_3, ], 24.1%
+[avland2_3, yrs_1, ], 24.1%
+[avland2_3, bor_1, exland2_3, ], 24.1%
+[bor_1, exland2_3, extot2_3, ], 24.1%
+[avland2_3, bor_1, exland2_3, extot2_3, ], 24.1%
+[census_1, yrs_1, ], 24.0%
+[avland2_3, val_3, yrs_3, ], 23.7%
+[lotarea_2, str_1, transval_3, ], 23.5%
+[transval_2, ], 23.4%
+[exland2_1, str_1, ], 23.4%
+[transval_3, yrs_1, ], 23.4%
+[val_2, ], 23.3%
+[extot2_2, ], 23.3%
+[val_3, yrs_1, ], 23.0%
+[bcl_D4, buildingarea_1, ], 23.0%
+[extot2_3, str_1, transval_3, ], 23.0%
+[transval_3, val_3, yrs_1, ], 22.9%
+[str_3, ], 22.8%
+[str_1, transval_2, ], 22.8%
+[str_1, val_2, ], 22.7%
+[bor_4, ], 22.6%
+[transval_2, val_2, ], 22.6%
+[buildingarea_2, str_1, transval_3, ], 22.6%
+[bor_1, lotarea_1, ], 22.5%
+[bor_3, str_1, ], 22.4%
+[str_1, yrs_3, ], 22.4%
+[buildingarea_1, exland2_1, ], 22.3%
+[str_3, val_3, ], 22.2%
+[str_3, transval_3, ], 22.2%
+[avland2_3, str_3, ], 22.2%
+[avland2_3, lotarea_1, ], 22.2%
+[bor_1, census_1, extot2_3, ], 22.2%
+[avland2_3, str_3, transval_3, ], 22.2%
+[buildingarea_1, census_1, extot2_3, ], 22.2%
+[bcl_D4, yrs_2, ], 22.1%
+[avland2_3, bor_1, buildingarea_1, ], 22.1%
+[avland2_3, val_3, yrs_1, ], 22.1%
+[bor_1, buildingarea_1, census_1, ], 22.0%
+[lot_1, val_3, yrs_2, ], 22.0%
+[bcl_D4, str_3, ], 21.8%
+[bcl_D4, val_3, yrs_2, ], 21.8%
+[bcl_D4, str_3, transval_3, ], 21.8%
+[bor_3, census_1, ], 21.7%
+[str_1, yrs_2, ], 21.7%
+[buildingarea_1, transval_2, ], 21.5%
+[exland2_3, str_1, transval_3, ], 21.4%
+[buildingarea_1, val_2, ], 21.3%
+[buildingarea_1, str_1, transval_2, ], 21.1%
+[avland2_3, bcl_D4, buildingarea_1, ], 21.1%
+[buildingarea_2, census_1, extot2_3, ], 21.1%
+[lot_1, val_3, yrs_3, ], 20.9%
+[lotarea_1, val_3, ], 20.8%
+[str_1, yrs_1, ], 20.8%
+[extot2_3, lotarea_1, ], 20.8%
+[exland2_2, lot_1, ], 20.7%
+[lotarea_1, transval_3, ], 20.7%
+[census_1, exland2_1, ], 20.7%
+[avland2_3, buildingarea_2, census_1, extot2_3, ], 20.7%
+[avland2_2, ], 20.6%
+[buildingarea_2, census_1, exland2_3, ], 20.6%
+[buildingarea_2, census_1, exland2_3, extot2_3, ], 20.6%
+[avland2_3, buildingarea_2, census_1, exland2_3, ], 20.6%
+[avland2_3, buildingarea_2, census_1, exland2_3, extot2_3, ], 20.6%
+[bcl_D4, yrs_3, ], 20.5%
+[extot2_3, yrs_3, ], 20.5%
+[exland2_2, transval_3, ], 20.5%
+[exland2_2, val_3, ], 20.4%
+[exland2_1, lotarea_1, ], 20.3%
+[bcl_D4, yrs_1, ], 20.2%
+[bcl_D4, val_3, yrs_3, ], 20.2%
+[bor_1, str_3, ], 20.1%
+[bcl_D4, bor_1, extot2_3, ], 20.1%
+[avland2_3, bor_4, ], 20.0%
+[lotarea_1, transval_2, ], 20.0%
+[avland2_3, bor_1, census_1, extot2_3, ], 20.0%
+[lotarea_1, val_2, ], 19.9%
+[extot2_3, yrs_1, ], 19.9%
+[exland2_2, extot2_2, ], 19.9%
+[bor_1, census_1, exland2_3, ], 19.9%
+[bor_1, census_1, exland2_3, extot2_3, ], 19.9%
+[avland2_3, bor_1, census_1, exland2_3, ], 19.9%
+[avland2_3, bor_1, census_1, exland2_3, extot2_3, ], 19.9%
+[avland2_2, str_1, ], 19.8%
+[bcl_D4, bor_1, exland2_3, ], 19.7%
+[bcl_D4, bor_1, exland2_3, extot2_3, ], 19.7%
+[bcl_D4, buildingarea_2, census_1, extot2_3, ], 19.7%
+[bor_1, str_3, transval_3, ], 19.6%
+[avland2_3, bor_1, str_3, ], 19.6%
+[lotarea_1, str_1, transval_2, ], 19.6%
+[avland2_3, bor_1, str_3, transval_3, ], 19.6%
+[bor_4, str_1, ], 19.5%
+[census_1, exland2_2, ], 19.5%
+[bcl_D4, val_3, yrs_1, ], 19.5%
+[census_3, ], 19.4%
+[bor_1, lotarea_2, ], 19.4%
+[lot_1, str_3, ], 19.4%
+[extot2_3, yrs_2, ], 19.4%
+[buildingarea_1, yrs_3, ], 19.4%
+[census_1, val_3, yrs_2, ], 19.4%
+[lot_1, str_3, transval_3, ], 19.4%
+[bcl_D4, buildingarea_2, census_1, exland2_3, ], 19.4%
+[bcl_D4, buildingarea_2, census_1, exland2_3, extot2_3, ], 19.4%
+[avland2_3, bcl_D4, buildingarea_2, census_1, exland2_3, ], 19.4%
+[avland2_3, bcl_D4, buildingarea_2, census_1, extot2_3, ], 19.4%
+[avland2_3, bcl_D4, buildingarea_2, census_1, exland2_3, extot2_3, ], 19.4%
+[lot_1, val_3, yrs_1, ], 19.3%
+[bcl_D4, bor_1, str_3, ], 19.2%
+[bcl_D4, bor_1, str_3, transval_3, ], 19.2%
+[avland2_3, bor_1, lotarea_2, ], 19.1%
+[bor_4, transval_3, ], 19.0%
+[bor_4, val_3, ], 18.9%
+[census_1, val_2, ], 18.9%
+[census_1, transval_2, ], 18.9%
+[lot_2, ], 18.8%
+[extot2_2, val_3, ], 18.8%
+[extot2_2, transval_3, ], 18.8%
+[avland2_3, bor_4, transval_3, ], 18.8%
+[bor_4, lot_1, ], 18.7%
+[buildingarea_1, yrs_2, ], 18.7%
+[avland2_3, exland2_2, ], 18.7%
+[avland2_3, bor_4, val_3, ], 18.7%
+[avland2_2, buildingarea_1, ], 18.5%
+[extot2_2, lot_1, ], 18.4%
+[avland2_3, extot2_2, ], 18.4%
+[bcl_D4, buildingarea_1, census_1, ], 18.4%
+[avland2_3, exland2_2, extot2_2, ], 18.4%
+[bor_3, lot_1, ], 18.3%
+[census_1, val_3, yrs_3, ], 18.3%
+[census_1, str_1, transval_2, ], 18.3%
+[avland2_3, bor_1, buildingarea_1, census_1, ], 18.3%
+[avland2_3, bor_1, lotarea_1, ], 18.1%
+[avland2_3, buildingarea_1, extot2_3, ], 18.1%
+[census_1, extot2_2, ], 18.0%
+[exland2_1, lot_1, ], 17.9%
+[bcl_D4, exland2_2, ], 17.9%
+[buildingarea_1, exland2_3, ], 17.9%
+[buildingarea_1, census_1, exland2_1, ], 17.9%
+[avland2_3, buildingarea_1, exland2_3, ], 17.9%
+[buildingarea_1, exland2_3, extot2_3, ], 17.9%
+[avland2_3, buildingarea_1, exland2_3, extot2_3, ], 17.9%
+[census_1, str_3, ], 17.8%
+[lot_1, val_2, ], 17.7%
+[bcl_D4, bor_1, lotarea_2, ], 17.7%
+[lot_1, transval_2, ], 17.6%
+[avland2_2, lotarea_1, ], 17.6%
+[extot2_3, str_3, ], 17.5%
+[lot_1, str_1, transval_2, ], 17.5%
+[extot2_3, str_3, transval_3, ], 17.5%
+[exland2_3, str_3, ], 17.4%
+[exland2_3, str_3, transval_3, ], 17.4%
+[avland2_2, transval_2, ], 17.3%
+[bcl_D4, extot2_2, ], 17.2%
+[census_1, str_3, transval_3, ], 17.2%
+[bcl_D4, exland2_2, extot2_2, ], 17.2%
+[avland2_2, val_2, ], 17.1%
+[buildingarea_1, yrs_1, ], 17.1%
+[buildingarea_1, lot_1, transval_2, ], 17.1%
+[lot_1, str_1, yrs_3, ], 17.0%
+[extot2_1, ], 16.9%
+[exland2_2, str_1, ], 16.9%
+[exland2_1, extot2_1, ], 16.9%
+[lot_1, str_1, yrs_2, ], 16.9%
+[census_3, val_3, ], 16.8%
+[avland2_3, bor_4, str_1, ], 16.8%
+[bcl_D4, bor_1, census_1, extot2_3, ], 16.8%
+[avland2_3, bcl_D4, buildingarea_1, census_1, ], 16.8%
+[census_3, transval_3, ], 16.7%
+[census_1, val_3, yrs_1, ], 16.7%
+[lot_1, str_1, yrs_1, ], 16.7%
+[census_1, str_1, yrs_2, ], 16.7%
+[avland2_2, str_1, transval_2, ], 16.7%
+[lotarea_2, yrs_2, ], 16.6%
+[avland2_2, lot_1, ], 16.6%
+[avland2_2, census_1, ], 16.6%
+[exland2_2, lot_1, transval_3, ], 16.6%
+[avland2_3, bcl_D4, exland2_2, ], 16.6%
+[avland2_3, bcl_D4, extot2_2, ], 16.6%
+[avland2_3, bcl_D4, exland2_2, extot2_2, ], 16.6%
+[bcl_D4, bor_1, buildingarea_1, ], 16.5%
+[avland2_3, bor_4, lot_1, ], 16.5%
+[avland2_3, census_3, ], 16.4%
+[bcl_D4, bor_1, census_1, exland2_3, ], 16.4%
+[bcl_D4, bor_1, census_1, exland2_3, extot2_3, ], 16.4%
+[exland2_3, yrs_1, ], 16.3%
+[exland2_3, yrs_2, ], 16.3%
+[census_1, str_1, yrs_3, ], 16.3%
+[buildingarea_1, str_1, transval_3, ], 16.2%
+[extot2_3, val_3, yrs_2, ], 16.1%
+[exland2_3, yrs_3, ], 15.9%
+[bor_4, str_1, transval_3, ], 15.9%
+[bor_1, buildingarea_2, ], 15.8%
+[bcl_D4, lotarea_1, ], 15.8%
+[bor_4, lot_1, transval_3, ], 15.8%
+[lotarea_1, yrs_3, ], 15.7%
+[extot2_3, val_3, yrs_3, ], 15.7%
+[avland2_3, bor_4, str_1, transval_3, ], 15.7%
+[exland2_1, transval_2, ], 15.6%
+[extot2_3, val_3, yrs_1, ], 15.6%
+[avland2_3, bor_4, lot_1, transval_3, ], 15.6%
+[avland2_3, bor_1, buildingarea_2, ], 15.5%
+[bcl_C6, ], 15.4%
+[exland2_1, val_2, ], 15.4%
+[bcl_C6, str_1, ], 15.4%
+[census_1, str_1, yrs_1, ], 15.4%
+[extot2_2, str_1, ], 15.3%
+[lotarea_2, yrs_1, ], 15.3%
+[lotarea_2, val_3, yrs_2, ], 15.3%
+[exland2_3, val_3, yrs_2, ], 15.3%
+[census_1, exland2_2, extot2_2, ], 15.3%
+[bcl_D4, bor_4, ], 15.2%
+[buildingarea_1, exland2_2, ], 15.1%
+[exland2_3, val_3, yrs_1, ], 15.1%
+[extot2_2, lot_1, transval_3, ], 15.1%
+[census_3, lot_1, ], 15.0%
+[exland2_1, str_1, transval_2, ], 15.0%
+[lotarea_2, yrs_3, ], 14.9%
+[exland2_3, val_3, yrs_3, ], 14.9%
+[avland2_2, buildingarea_1, census_1, ], 14.9%
+[bor_1, yrs_2, ], 14.8%
+[bor_3, buildingarea_1, ], 14.8%
+[bcl_D4, bor_4, transval_3, ], 14.8%
+[bcl_D4, bor_1, buildingarea_2, ], 14.7%
+[bcl_D4, bor_4, val_3, ], 14.7%
+[buildingarea_2, yrs_2, ], 14.6%
+[bor_1, str_1, ], 14.5%
+[bcl_D4, census_3, ], 14.5%
+[census_1, lot_1, transval_2, ], 14.5%
+[avland2_3, str_1, yrs_2, ], 14.4%
+[bor_1, yrs_3, ], 14.3%
+[buildingarea_2, yrs_1, ], 14.2%
+[avland2_2, exland2_1, ], 14.2%
+[avland2_3, census_1, exland2_2, ], 14.2%
+[extot2_1, str_1, ], 14.1%
+[str_1, val_3, yrs_3, ], 14.1%
+[lotarea_2, val_3, yrs_1, ], 14.1%
+[avland2_3, str_1, yrs_3, ], 14.1%
+[avland2_3, bcl_D4, lotarea_1, ], 14.1%
+[str_1, val_3, yrs_2, ], 14.0%
+[avland2_3, census_1, extot2_2, ], 14.0%
+[avland2_3, census_1, exland2_2, extot2_2, ], 14.0%
+[buildingarea_2, yrs_3, ], 13.9%
+[buildingarea_2, val_3, yrs_2, ], 13.9%
+[buildingarea_1, str_1, yrs_3, ], 13.9%
+[avland2_3, bcl_D4, census_3, ], 13.9%
+[census_1, lot_2, ], 13.8%
+[bcl_D4, census_1, exland2_2, ], 13.8%
+[bcl_D4, bor_1, buildingarea_1, census_1, ], 13.8%
+[avland2_3, buildingarea_1, census_1, extot2_3, ], 13.8%
+[bor_3, extot2_3, ], 13.7%
+[lotarea_1, yrs_2, ], 13.7%
+[lotarea_2, val_3, yrs_3, ], 13.7%
+[buildingarea_1, census_1, exland2_3, ], 13.7%
+[buildingarea_1, census_1, exland2_3, extot2_3, ], 13.7%
+[avland2_3, buildingarea_1, census_1, exland2_3, ], 13.7%
+[avland2_3, buildingarea_1, census_1, exland2_3, extot2_3, ], 13.7%
+[bcl_C6, lot_1, ], 13.6%
+[buildingarea_2, val_3, yrs_1, ], 13.6%
+[avland2_2, lot_1, transval_2, ], 13.6%
+[bor_1, yrs_1, ], 13.5%
+[lot_2, str_1, ], 13.5%
+[buildingarea_1, extot2_2, ], 13.5%
+[bor_4, lotarea_2, ], 13.4%
+[buildingarea_1, extot2_1, ], 13.4%
+[bor_1, buildingarea_1, extot2_3, ], 13.4%
+[bor_3, buildingarea_1, census_1, ], 13.4%
+[bcl_D4, census_1, extot2_2, ], 13.4%
+[buildingarea_1, exland2_1, extot2_1, ], 13.4%
+[bcl_D4, census_1, exland2_2, extot2_2, ], 13.4%
+[bor_4, extot2_3, ], 13.3%
+[buildingarea_2, val_3, yrs_3, ], 13.3%
+[census_3, lot_1, transval_3, ], 13.3%
+[avland2_3, bor_3, ], 13.2%
+[bcl_C6, buildingarea_1, ], 13.2%
+[bor_3, val_3, ], 13.1%
+[lotarea_1, yrs_1, ], 13.1%
+[census_1, extot2_1, ], 13.1%
+[bor_1, buildingarea_2, extot2_3, ], 13.1%
+[avland2_3, bor_1, yrs_2, ], 13.1%
+[avland2_3, str_1, yrs_1, ], 13.1%
+[avland2_2, buildingarea_1, exland2_1, ], 13.1%
+[census_1, exland2_1, extot2_1, ], 13.1%
+[avland2_3, bor_1, buildingarea_2, extot2_3, ], 13.1%
+[bor_4, exland2_3, ], 13.0%
+[lotarea_2, str_3, ], 13.0%
+[bor_1, val_3, yrs_2, ], 13.0%
+[bcl_D4, bor_1, lotarea_1, ], 13.0%
+[bor_1, buildingarea_2, exland2_3, ], 13.0%
+[avland2_3, bor_4, exland2_3, ], 13.0%
+[avland2_3, bor_4, extot2_3, ], 13.0%
+[bor_4, exland2_3, extot2_3, ], 13.0%
+[buildingarea_1, str_1, yrs_2, ], 13.0%
+[bor_1, buildingarea_2, exland2_3, extot2_3, ], 13.0%
+[avland2_3, bor_1, buildingarea_2, exland2_3, ], 13.0%
+[avland2_3, bor_4, exland2_3, extot2_3, ], 13.0%
+[avland2_3, bor_1, buildingarea_2, exland2_3, extot2_3, ], 13.0%
+[bor_3, transval_3, ], 12.9%
+[bor_4, buildingarea_2, ], 12.9%
+[buildingarea_2, str_3, ], 12.9%
+[avland2_3, bor_4, lotarea_2, ], 12.9%
+[extot2_3, str_1, yrs_3, ], 12.9%
+[avland2_3, bor_4, buildingarea_2, ], 12.8%
+[avland2_3, bcl_D4, census_1, exland2_2, ], 12.8%
+[avland2_3, bcl_D4, census_1, extot2_2, ], 12.8%
+[avland2_3, bcl_D4, census_1, exland2_2, extot2_2, ], 12.8%
+[cmb_108, ], 12.7%
+[bor_1, cmb_108, ], 12.7%
+[lotarea_2, str_3, transval_3, ], 12.7%
+[avland2_3, bor_1, val_3, yrs_2, ], 12.7%
+[extot2_3, transval_2, ], 12.6%
+[bor_1, val_3, yrs_3, ], 12.6%
+[avland2_3, bor_1, yrs_3, ], 12.6%
+[buildingarea_2, str_3, transval_3, ], 12.6%
+[cmb_108, val_3, ], 12.5%
+[extot2_3, val_2, ], 12.5%
+[cmb_108, transval_3, ], 12.5%
+[avland2_3, cmb_108, ], 12.5%
+[exland2_2, lotarea_2, ], 12.5%
+[bor_1, buildingarea_2, census_1, ], 12.5%
+[avland2_3, bor_1, cmb_108, ], 12.5%
+[buildingarea_1, str_1, yrs_1, ], 12.5%
+[extot2_3, str_1, transval_2, ], 12.5%
+[bor_3, lotarea_1, ], 12.4%
+[bor_4, census_1, ], 12.4%
+[avland2_3, lot_2, ], 12.4%
+[census_3, extot2_3, ], 12.4%
+[bcl_D4, bor_4, lot_1, ], 12.4%
+[exland2_2, str_1, transval_3, ], 12.4%
+[bcl_D4, bor_1, buildingarea_2, exland2_3, ], 12.4%
+[bcl_D4, bor_1, buildingarea_2, extot2_3, ], 12.4%
+[bcl_D4, bor_1, buildingarea_2, exland2_3, extot2_3, ], 12.4%
+[str_2, ], 12.3%
+[bor_3, census_1, extot2_3, ], 12.3%
+[buildingarea_1, census_1, exland2_2, ], 12.3%
+[avland2_3, bor_1, val_3, yrs_3, ], 12.3%
+[str_2, val_3, ], 12.2%
+[str_2, transval_3, ], 12.2%
+[extot2_2, lotarea_2, ], 12.2%
+[avland2_3, bor_1, yrs_1, ], 12.2%
+[avland2_3, bor_1, buildingarea_2, census_1, ], 12.2%
+[lot_2, val_3, ], 12.0%
+[avland2_3, str_2, ], 12.0%
+[bcl_D4, bor_4, str_1, ], 12.0%
+[str_1, val_3, yrs_1, ], 12.0%
+[avland2_3, str_2, transval_3, ], 12.0%
+[bcl_D4, bor_4, lot_1, transval_3, ], 12.0%
+[census_3, str_1, ], 11.8%
+[lot_2, transval_3, ], 11.8%
+[avland2_3, bor_3, val_3, ], 11.8%
+[cds_4, ], 11.7%
+[bor_1, cds_4, ], 11.7%
+[avland2_3, cds_4, ], 11.7%
+[exland2_2, lotarea_1, ], 11.7%
+[avland2_3, bor_1, cds_4, ], 11.7%
+[avland2_3, bor_3, transval_3, ], 11.7%
+[bcl_D4, bor_4, str_1, transval_3, ], 11.7%
+[cds_4, val_3, ], 11.6%
+[cds_4, transval_3, ], 11.6%
+[buildingarea_1, val_3, yrs_2, ], 11.6%
+[bcl_D4, bor_1, buildingarea_2, census_1, ], 11.6%
+[bcl_D4, cmb_108, ], 11.5%
+[extot2_1, lotarea_1, ], 11.5%
+[bcl_D4, bor_1, cmb_108, ], 11.5%
+[buildingarea_1, val_3, yrs_3, ], 11.5%
+[extot2_3, str_1, yrs_1, ], 11.5%
+[avland2_3, lot_2, transval_3, ], 11.5%
+[avland2_3, bcl_D4, cmb_108, ], 11.5%
+[avland2_3, bor_3, census_1, ], 11.4%
+[bcl_D4, bor_4, buildingarea_2, ], 11.4%
+[bor_1, buildingarea_1, census_1, extot2_3, ], 11.4%
+[bcl_D4, str_2, ], 11.3%
+[avland2_3, bor_3, str_1, ], 11.3%
+[cmb_108, lot_1, ], 11.2%
+[bor_3, lot_1, transval_3, ], 11.2%
+[lotarea_1, str_1, yrs_3, ], 11.2%
+[bcl_D4, str_2, transval_3, ], 11.2%
+[cmb_108, lot_1, transval_3, ], 11.2%
+[avland2_2, census_1, exland2_1, ], 11.2%
+[bcl_D4, cds_4, ], 11.1%
+[bor_1, val_3, yrs_1, ], 11.1%
+[bcl_D4, bor_1, cds_4, ], 11.1%
+[avland2_3, bor_3, lot_1, ], 11.1%
+[extot2_3, str_1, yrs_2, ], 11.1%
+[avland2_3, bcl_D4, cds_4, ], 11.1%
+[avland2_3, bor_1, val_3, yrs_1, ], 11.1%
+[extot2_2, str_1, transval_3, ], 11.0%
+[buildingarea_1, census_1, extot2_1, ], 11.0%
+[buildingarea_1, census_1, exland2_1, extot2_1, ], 11.0%
+[avland2_2, extot2_3, ], 10.9%
+[bcl_D4, bor_1, yrs_2, ], 10.9%
+[bor_1, buildingarea_1, exland2_3, ], 10.9%
+[bor_3, str_1, transval_3, ], 10.9%
+[bor_1, buildingarea_1, exland2_3, extot2_3, ], 10.9%
+[avland2_3, bor_1, buildingarea_1, exland2_3, ], 10.9%
+[avland2_3, bor_1, buildingarea_1, extot2_3, ], 10.9%
+[avland2_3, bor_1, buildingarea_1, exland2_3, extot2_3, ], 10.9%
+[bor_1, exland2_2, ], 10.8%
+[bcl_D4, bor_3, ], 10.8%
+[exland2_1, lot_1, transval_2, ], 10.8%
+[extot2_3, lot_1, transval_2, ], 10.8%
+[bcl_D4, bor_1, val_3, yrs_2, ], 10.8%
+[lotarea_3, ], 10.7%
+[lotarea_3, val_3, ], 10.7%
+[avland2_3, lotarea_3, ], 10.7%
+[bcl_C6, lotarea_1, ], 10.6%
+[lotarea_3, transval_3, ], 10.6%
+[exland2_3, lotarea_1, ], 10.6%
+[census_3, exland2_3, ], 10.6%
+[bcl_D4, bor_1, yrs_3, ], 10.6%
+[bcl_D4, bor_3, val_3, ], 10.6%
+[bcl_D4, bor_3, transval_3, ], 10.6%
+[bcl_D4, bor_4, lotarea_2, ], 10.6%
+[buildingarea_1, census_1, extot2_2, ], 10.6%
+[avland2_3, census_3, exland2_3, ], 10.6%
+[avland2_3, census_3, extot2_3, ], 10.6%
+[census_3, exland2_3, extot2_3, ], 10.6%
+[avland2_3, census_3, exland2_3, extot2_3, ], 10.6%
+[avland2_3, bor_1, str_1, ], 10.5%
+[buildingarea_1, exland2_2, extot2_2, ], 10.5%
+[bor_1, buildingarea_2, census_1, exland2_3, ], 10.5%
+[bor_1, buildingarea_2, census_1, extot2_3, ], 10.5%
+[bor_1, buildingarea_2, census_1, exland2_3, extot2_3, ], 10.5%
+[avland2_3, bor_1, buildingarea_2, census_1, exland2_3, ], 10.5%
+[avland2_3, bor_1, buildingarea_2, census_1, extot2_3, ], 10.5%
+[avland2_3, bor_1, buildingarea_2, census_1, exland2_3, extot2_3, ], 10.5%
+[cds_4, lot_1, ], 10.4%
+[bcl_D4, lot_2, ], 10.4%
+[buildingarea_2, census_3, ], 10.4%
+[avland2_3, bor_4, census_1, ], 10.4%
+[buildingarea_1, lotarea_2, ], 10.3%
+[extot2_2, lotarea_1, ], 10.3%
+[bcl_D4, str_1, yrs_2, ], 10.3%
+[cds_4, lot_1, transval_3, ], 10.3%
+[bcl_D4, bor_1, val_3, yrs_3, ], 10.3%
+[avland2_2, buildingarea_1, census_1, exland2_1, ], 10.3%
+[extot2_1, lot_1, ], 10.2%
+[bcl_D4, lot_2, transval_3, ], 10.2%
+[avland2_2, buildingarea_1, extot2_3, ], 10.2%
+[bor_1, extot2_2, ], 10.1%
+[bcl_C6, census_1, ], 10.1%
+[avland2_3, buildingarea_2, census_3, ], 10.1%
+[avland2_3, bor_3, lot_1, transval_3, ], 10.1%
+[bor_3, exland2_1, ], 10.0%
+[lot_1, str_2, ], 10.0%
+==High-confidence association rules (min_conf=80.0%)
+['cmb_108'] => ['bor_1'] (Conf: 100.0%, Supp: 12.7%)
+['cds_4'] => ['bor_1'] (Conf: 100.0%, Supp: 11.7%)
+['bcl_C6'] => ['str_1'] (Conf: 100.0%, Supp: 15.4%)
+['cds_4'] => ['avland2_3'] (Conf: 100.0%, Supp: 11.7%)
+['lotarea_3'] => ['avland2_3'] (Conf: 100.0%, Supp: 10.7%)
+['exland2_3'] => ['avland2_3'] (Conf: 100.0%, Supp: 48.5%)
+['exland2_3'] => ['extot2_3'] (Conf: 100.0%, Supp: 48.5%)
+['extot2_1'] => ['exland2_1'] (Conf: 100.0%, Supp: 16.9%)
+['cds_4'] => ['avland2_3', 'bor_1'] (Conf: 100.0%, Supp: 11.7%)
+['exland2_3'] => ['extot2_3', 'avland2_3'] (Conf: 100.0%, Supp: 48.5%)
+['cds_4'] => ['val_3'] (Conf: 99.6%, Supp: 11.6%)
+['cds_4'] => ['transval_3'] (Conf: 99.6%, Supp: 11.6%)
+['lotarea_3'] => ['val_3'] (Conf: 99.5%, Supp: 10.7%)
+['str_2'] => ['val_3'] (Conf: 99.2%, Supp: 12.2%)
+['str_2'] => ['transval_3'] (Conf: 99.2%, Supp: 12.2%)
+['lotarea_1'] => ['buildingarea_1'] (Conf: 99.2%, Supp: 42.2%)
+['transval_3'] => ['val_3'] (Conf: 99.2%, Supp: 73.8%)
+['lotarea_3'] => ['transval_3'] (Conf: 99.1%, Supp: 10.6%)
+['val_3'] => ['transval_3'] (Conf: 99.0%, Supp: 73.8%)
+['cmb_108'] => ['val_3'] (Conf: 98.9%, Supp: 12.5%)
+['cmb_108'] => ['transval_3'] (Conf: 98.9%, Supp: 12.5%)
+['bcl_D4'] => ['transval_3'] (Conf: 98.2%, Supp: 61.6%)
+['cmb_108'] => ['avland2_3'] (Conf: 98.1%, Supp: 12.5%)
+['cmb_108'] => ['avland2_3', 'bor_1'] (Conf: 98.1%, Supp: 12.5%)
+['bcl_D4'] => ['val_3'] (Conf: 97.9%, Supp: 61.4%)
+['str_3'] => ['val_3'] (Conf: 97.7%, Supp: 22.2%)
+['str_3'] => ['transval_3'] (Conf: 97.7%, Supp: 22.2%)
+['str_3'] => ['avland2_3'] (Conf: 97.7%, Supp: 22.2%)
+['str_3'] => ['avland2_3', 'transval_3'] (Conf: 97.7%, Supp: 22.2%)
+['transval_2'] => ['str_1'] (Conf: 97.3%, Supp: 22.8%)
+['val_2'] => ['str_1'] (Conf: 97.3%, Supp: 22.7%)
+['str_2'] => ['avland2_3'] (Conf: 97.3%, Supp: 12.0%)
+['str_2'] => ['avland2_3', 'transval_3'] (Conf: 97.3%, Supp: 12.0%)
+['val_2'] => ['transval_2'] (Conf: 97.1%, Supp: 22.6%)
+['transval_2'] => ['val_2'] (Conf: 96.7%, Supp: 22.6%)
+['avland2_2'] => ['str_1'] (Conf: 96.3%, Supp: 19.8%)
+['str_3'] => ['bcl_D4'] (Conf: 95.8%, Supp: 21.8%)
+['str_3'] => ['transval_3', 'bcl_D4'] (Conf: 95.8%, Supp: 21.8%)
+['transval_3'] => ['avland2_3'] (Conf: 95.7%, Supp: 71.2%)
+['val_3'] => ['avland2_3'] (Conf: 95.4%, Supp: 71.1%)
+['bcl_D4'] => ['avland2_3'] (Conf: 95.4%, Supp: 59.8%)
+['buildingarea_2'] => ['transval_3'] (Conf: 95.4%, Supp: 40.8%)
+['buildingarea_2'] => ['val_3'] (Conf: 95.2%, Supp: 40.7%)
+['bcl_D4'] => ['avland2_3', 'transval_3'] (Conf: 95.0%, Supp: 59.6%)
+['cds_4'] => ['bcl_D4'] (Conf: 94.6%, Supp: 11.1%)
+['cds_4'] => ['bor_1', 'bcl_D4'] (Conf: 94.6%, Supp: 11.1%)
+['cds_4'] => ['avland2_3', 'bcl_D4'] (Conf: 94.6%, Supp: 11.1%)
+['buildingarea_2'] => ['avland2_3'] (Conf: 94.3%, Supp: 40.3%)
+['avland2_3'] => ['transval_3'] (Conf: 93.9%, Supp: 71.2%)
+['avland2_3'] => ['val_3'] (Conf: 93.8%, Supp: 71.1%)
+['exland2_3'] => ['val_3'] (Conf: 93.3%, Supp: 45.3%)
+['exland2_3'] => ['transval_3'] (Conf: 93.3%, Supp: 45.3%)
+['lotarea_2'] => ['val_3'] (Conf: 92.3%, Supp: 43.1%)
+['lotarea_2'] => ['transval_3'] (Conf: 92.3%, Supp: 43.1%)
+['lotarea_2'] => ['avland2_3'] (Conf: 91.8%, Supp: 43.0%)
+['str_2'] => ['bcl_D4'] (Conf: 91.8%, Supp: 11.3%)
+['transval_2'] => ['buildingarea_1'] (Conf: 91.8%, Supp: 21.5%)
+['bor_3'] => ['str_1'] (Conf: 91.7%, Supp: 22.4%)
+['val_2'] => ['buildingarea_1'] (Conf: 91.3%, Supp: 21.3%)
+['str_2'] => ['transval_3', 'bcl_D4'] (Conf: 91.0%, Supp: 11.2%)
+['cmb_108'] => ['bcl_D4'] (Conf: 90.9%, Supp: 11.5%)
+['cmb_108'] => ['bor_1', 'bcl_D4'] (Conf: 90.9%, Supp: 11.5%)
+['cmb_108'] => ['avland2_3', 'bcl_D4'] (Conf: 90.5%, Supp: 11.5%)
+['transval_2'] => ['str_1', 'buildingarea_1'] (Conf: 90.3%, Supp: 21.1%)
+['avland2_2'] => ['buildingarea_1'] (Conf: 89.9%, Supp: 18.5%)
+['buildingarea_2'] => ['bcl_D4'] (Conf: 89.9%, Supp: 38.5%)
+['bor_3'] => ['census_1'] (Conf: 88.9%, Supp: 21.7%)
+['bor_1'] => ['avland2_3'] (Conf: 88.9%, Supp: 37.9%)
+['cds_4'] => ['lot_1'] (Conf: 88.8%, Supp: 10.4%)
+['cds_4'] => ['lot_1', 'transval_3'] (Conf: 88.4%, Supp: 10.3%)
+['bcl_C6'] => ['lot_1'] (Conf: 88.4%, Supp: 13.6%)
+['exland2_1'] => ['str_1'] (Conf: 88.3%, Supp: 23.4%)
+['bor_4'] => ['avland2_3'] (Conf: 88.3%, Supp: 20.0%)
+['cmb_108'] => ['lot_1'] (Conf: 88.2%, Supp: 11.2%)
+['cmb_108'] => ['lot_1', 'transval_3'] (Conf: 88.2%, Supp: 11.2%)
+['str_3'] => ['bor_1'] (Conf: 88.1%, Supp: 20.1%)
+['buildingarea_2'] => ['avland2_3', 'bcl_D4'] (Conf: 87.6%, Supp: 37.5%)
+['census_3'] => ['val_3'] (Conf: 86.4%, Supp: 16.8%)
+['bor_1'] => ['transval_3'] (Conf: 86.3%, Supp: 36.8%)
+['bor_1'] => ['val_3'] (Conf: 86.2%, Supp: 36.7%)
+['bor_4'] => ['str_1'] (Conf: 86.1%, Supp: 19.5%)
+['str_3'] => ['bor_1', 'transval_3'] (Conf: 86.0%, Supp: 19.6%)
+['str_3'] => ['avland2_3', 'bor_1'] (Conf: 86.0%, Supp: 19.6%)
+['str_3'] => ['avland2_3', 'transval_3', 'bor_1'] (Conf: 86.0%, Supp: 19.6%)
+['bcl_C6'] => ['buildingarea_1'] (Conf: 85.9%, Supp: 13.2%)
+['census_3'] => ['transval_3'] (Conf: 85.9%, Supp: 16.7%)
+['bor_1'] => ['lot_1'] (Conf: 85.8%, Supp: 36.6%)
+['extot2_3'] => ['lot_1'] (Conf: 85.8%, Supp: 51.4%)
+['val_2'] => ['lotarea_1'] (Conf: 85.5%, Supp: 19.9%)
+['extot2_2'] => ['exland2_2'] (Conf: 85.5%, Supp: 19.9%)
+['exland2_3'] => ['lot_1'] (Conf: 85.5%, Supp: 41.5%)
+['transval_2'] => ['lotarea_1'] (Conf: 85.4%, Supp: 20.0%)
+['avland2_2'] => ['lotarea_1'] (Conf: 85.2%, Supp: 17.6%)
+['buildingarea_2'] => ['lotarea_2'] (Conf: 85.1%, Supp: 36.4%)
+['str_3'] => ['lot_1'] (Conf: 85.0%, Supp: 19.4%)
+['str_3'] => ['lot_1', 'transval_3'] (Conf: 85.0%, Supp: 19.4%)
+['bor_1'] => ['val_3', 'avland2_3'] (Conf: 84.7%, Supp: 36.1%)
+['bor_1'] => ['avland2_3', 'transval_3'] (Conf: 84.7%, Supp: 36.1%)
+['exland2_1'] => ['buildingarea_1'] (Conf: 84.5%, Supp: 22.3%)
+['lotarea_2'] => ['bcl_D4'] (Conf: 84.2%, Supp: 39.4%)
+['census_3'] => ['avland2_3'] (Conf: 84.1%, Supp: 16.4%)
+['str_3'] => ['bor_1', 'bcl_D4'] (Conf: 84.1%, Supp: 19.2%)
+['str_3'] => ['bor_1', 'transval_3', 'bcl_D4'] (Conf: 84.1%, Supp: 19.2%)
+['bor_4'] => ['transval_3'] (Conf: 84.0%, Supp: 19.0%)
+['transval_2'] => ['str_1', 'lotarea_1'] (Conf: 83.9%, Supp: 19.6%)
+['avland2_2'] => ['transval_2'] (Conf: 83.8%, Supp: 17.3%)
+['extot2_1'] => ['str_1'] (Conf: 83.7%, Supp: 14.1%)
+['transval_3'] => ['lot_1'] (Conf: 83.7%, Supp: 62.3%)
+['bor_4'] => ['val_3'] (Conf: 83.6%, Supp: 18.9%)
+['val_3'] => ['lot_1'] (Conf: 83.4%, Supp: 62.2%)
+['bor_4'] => ['avland2_3', 'transval_3'] (Conf: 83.2%, Supp: 18.8%)
+['avland2_3'] => ['lot_1'] (Conf: 83.1%, Supp: 63.1%)
+['avland2_2'] => ['val_2'] (Conf: 82.9%, Supp: 17.1%)
+['bcl_D4'] => ['lot_1'] (Conf: 82.8%, Supp: 51.9%)
+['transval_3'] => ['bcl_D4'] (Conf: 82.7%, Supp: 61.6%)
+['bor_4'] => ['lot_1'] (Conf: 82.7%, Supp: 18.7%)
+['bor_4'] => ['val_3', 'avland2_3'] (Conf: 82.7%, Supp: 18.7%)
+['exland2_2'] => ['lot_1'] (Conf: 82.5%, Supp: 20.7%)
+['lotarea_1'] => ['census_1'] (Conf: 82.4%, Supp: 35.0%)
+['val_3'] => ['bcl_D4'] (Conf: 82.4%, Supp: 61.4%)
+['buildingarea_1'] => ['lot_1'] (Conf: 81.8%, Supp: 45.2%)
+['yrs_1'] => ['lot_1'] (Conf: 81.7%, Supp: 26.2%)
+['exland2_2'] => ['transval_3'] (Conf: 81.7%, Supp: 20.5%)
+['bor_1'] => ['census_1'] (Conf: 81.7%, Supp: 34.8%)
+['lotarea_2'] => ['avland2_3', 'bcl_D4'] (Conf: 81.6%, Supp: 38.2%)
+['str_2'] => ['lot_1'] (Conf: 81.6%, Supp: 10.0%)
+['extot2_3'] => ['avland2_3'] (Conf: 81.5%, Supp: 48.8%)
+['exland2_2'] => ['val_3'] (Conf: 81.5%, Supp: 20.4%)
+['avland2_2'] => ['str_1', 'transval_2'] (Conf: 81.3%, Supp: 16.7%)
+['bcl_D4'] => ['lot_1', 'transval_3'] (Conf: 81.2%, Supp: 51.0%)
+['val_2'] => ['census_1'] (Conf: 81.2%, Supp: 18.9%)
+['extot2_3'] => ['exland2_3'] (Conf: 81.0%, Supp: 48.5%)
+['extot2_3'] => ['avland2_3', 'exland2_3'] (Conf: 81.0%, Supp: 48.5%)
+['extot2_2'] => ['val_3'] (Conf: 80.9%, Supp: 18.8%)
+['extot2_2'] => ['transval_3'] (Conf: 80.9%, Supp: 18.8%)
+['transval_2'] => ['census_1'] (Conf: 80.8%, Supp: 18.9%)
+['avland2_2'] => ['lot_1'] (Conf: 80.6%, Supp: 16.6%)
+['avland2_2'] => ['census_1'] (Conf: 80.6%, Supp: 16.6%)
+['census_1'] => ['lot_1'] (Conf: 80.2%, Supp: 60.5%)
+['transval_3'] => ['avland2_3', 'bcl_D4'] (Conf: 80.1%, Supp: 59.6%)
+['exland2_3'] => ['lot_1', 'transval_3'] (Conf: 80.0%, Supp: 38.8%)
